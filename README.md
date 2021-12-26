@@ -1,4 +1,4 @@
-# Doll Coin Contract
+# Doll Coin Smart Contract
 contract
 Attached are the following files:
 
