@@ -1,4 +1,4 @@
-# Dcontract
+# Doll Coin Contract
 contract
 Attached are the following files:
 
